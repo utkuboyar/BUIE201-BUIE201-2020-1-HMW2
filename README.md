@@ -7,9 +7,10 @@ Use functions FindSimpleWithRangeForLoop and FindBinarySearch from the lecture.
 3. For each sz value, perform the test for 10 randomly generated ValueToFind values between 0 and sz-1. Do not forget to randomize your seed value for the rand function.
 4. Generate a report that lists the average performance of each "find" function for each sz value. Report may look as follows:
 
-Function | 1000 | 10000 | 100000 | 1000000 | 10000000
-Vector construct | ...
-Set construct | ... 
-FindSimpleWithRangeForLoop | ...
-FindBinarySearch | ... 
-Set find | ... 
+|Function | 1000 | 10000 | 100000 | 1000000 | 10000000|
+|----| ---- | ---- | ---- | ---- | ----|
+|Vector construct | | | | | 
+|Set construct | | | | | 
+|FindSimpleWithRangeForLoop | | | | | 
+|FindBinarySearch | | | | | 
+|Set find | | | | | 
